@@ -1,0 +1,66 @@
+body {
+    background-color: #131313;
+}
+
+input {
+    width: 40%;
+    border: 2px white;
+    border-radius: 4px;
+    background-color: #171717;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+    color: white;
+}
+
+:-moz-placeholder {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+button {
+    font-family: 'Noto Sans TC', sans-serif;
+    border: 2px white;
+    border-radius: 4px;
+    background-color: #191919;
+    color: white;
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
+}
+
+input, select, textarea {
+    color: white;
+    text-align: center;
+}
+
+#information {
+    margin-top: 100px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+#notice {
+    margin-top: 50px;
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #606060;
+}
+
+#inputest {
+    margin-top: 50px;
+}
+
+#title {
+    font-family: 'Noto Sans TC', sans-serif;
+    color: white;
+    margin-top: 20px;
+    font-size: 50px;
+}
